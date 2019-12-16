@@ -1,0 +1,13 @@
+11, COMSCI11, Introduction to Computer Science
+21, CMSC56,Discrete Mathematical Structures in Computer Science 1 
+42, STAT123,Probability and Statistics
+12,MATH53,Elementary Analysis I
+12,MATH54,Elementary Analysis II
+12,CMSC21,Fundamentals of Programming
+12, SCIENCE11, Living Systems: Concepts and Dynamics 
+12, PHYSICS81,Intermediate Physics 1 
+12, KAS1,Kasaysayan ng Pilipinas
+12, SAS1, Self and Society
+1, 21212, 1212121212
+
+
